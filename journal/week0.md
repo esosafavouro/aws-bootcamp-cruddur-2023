@@ -10,6 +10,7 @@
 I created my Logical architectual diagram using lucid charts 
 
 ![Proof of Logical diagram](assets/Logical%20Architecture%20-%20Logical%20Design%202.jpeg)
+[Logical Diagram Proof Link](https://lucid.app/lucidchart/d6121433-ceb9-4bd2-9cac-0a8cc0670877/edit?viewport_loc=-1617%2C-438%2C4905%2C1900%2C0_0&invitationId=inv_08393950-7b0c-453f-8578-40e218885106)
 
 
 ## 3. Installed AWS CLI Using VScode Terminal on Windows
