@@ -24,10 +24,7 @@ Connected to my AWS Account
 ![Prrof of Configuration](assets/AWS%20CLI%20Installed%20and%20working.png)
 
 
-## 4. Created a Billing Alarm
-
-
-## 5. Creating Budget
+## 4. Creating Budget
 
 I created my budget of 1usd
 
